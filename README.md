@@ -6,7 +6,7 @@ Currently processing **100M+ records per OpCo per run across 6 Operating Compani
 for a global telecom client on an on-prem Hadoop stack (HDFS, Hive, Presto, YARN).
 
 Also building cloud-native pipelines on **Azure Databricks** with Delta Lake,
-Unity Catalog, and CI/CD via GitHub Actions — growing toward modern lakehouse architectures.
+Unity Catalog, and CI/CD via GitHub Actions - growing toward modern lakehouse architectures.
 
 🏅 Databricks Certified Data Engineer Associate  
 ☁️ AWS Certified Cloud Practitioner  
