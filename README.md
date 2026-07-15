@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohd Absar Alam
+# Hi, Absar this side
 
 ## AWS Data Engineer • Databricks Data Engineer
 
