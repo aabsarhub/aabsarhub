@@ -2,7 +2,7 @@
 
 ## AWS Data Engineer • Databricks Data Engineer
 
-Building scalable data platforms using **AWS, Databricks, Apache Spark, and PySpark**.
+Building scalable data platforms using **AWS, Databricks, SQL, Apache Spark, PySpark, Python, Docker, Apache Airflow, Delta Lake, Apache Iceberg, Git, Shell Scripting, and Linux**.
 
 Currently developing production-grade ETL pipelines processing **100M+ records per Operating Company across 6 telecom markets** while building cloud-native data engineering solutions using modern lakehouse architectures and industry best practices.
 
@@ -26,9 +26,9 @@ Currently developing production-grade ETL pipelines processing **100M+ records p
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" />
   <img src="https://cdn.simpleicons.org/databricks" alt="Databricks" width="40" />
-  <img src="https://cdn.simpleicons.org/apachespark" alt="Apache Spark" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" />
+  <img src="https://cdn.simpleicons.org/apachespark" alt="Apache Spark / PySpark" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
   <img src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" width="40" />
   <img src="https://cdn.simpleicons.org/delta" alt="Delta Lake" width="40" />
   <img src="https://cdn.simpleicons.org/apacheiceberg" alt="Apache Iceberg" width="40" />
