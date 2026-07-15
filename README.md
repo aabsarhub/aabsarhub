@@ -15,7 +15,7 @@ Currently building production-grade ETL pipelines processing **100M+ records per
 
 <p align="left">
   <a href="https://linkedin.com/in/aabsar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-aabsarhub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-aabsar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
