@@ -10,12 +10,12 @@ Currently building production-grade ETL pipelines processing **100M+ records per
 ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=absara1am&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aabsarhub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="left">
-  <a href="https://linkedin.com/in/absara1am" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-absara1am-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/aabsarhub" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-aabsarhub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -44,6 +44,6 @@ Currently building production-grade ETL pipelines processing **100M+ records per
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=absara1am&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=absara1am&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aabsarhub&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabsarhub&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
